@@ -1,2 +1,1 @@
-# python-git-demo
-this is only for demo use
+# 我是說明文件
